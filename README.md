@@ -1,4 +1,2 @@
 # firstproject
-this is my first repository
-<br>
-author-sonali
+this is my first 
